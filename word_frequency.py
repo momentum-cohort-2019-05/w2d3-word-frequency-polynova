@@ -14,7 +14,16 @@ def clean_text(text):
 
     
     
-
+# original list = ["the", "car",....]
+#  newlst = []
+#  frequency = []
+#  for word in the original list
+#        if word not in newlst:
+#            newlst.append(word)
+#            set frequency = 1
+#        else
+#            increase the frequency
+#  sort newlst based on frequency list
 
 def print_word_freq(file):
     """Read in `file` and print out the frequency of words in that file."""
